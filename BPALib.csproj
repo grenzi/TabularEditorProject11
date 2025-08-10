@@ -19,6 +19,7 @@
   <ItemGroup>
     <Compile Remove="**\*.cs" />
     <Compile Include="BPALib.Shims.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TabularEditor\BestPracticeAnalyzer\Analyzer.cs" />
     <Compile Include="TabularEditor\BestPracticeAnalyzer\BestPracticeRule.cs" />
     <Compile Include="TabularEditor\BestPracticeAnalyzer\IRuleDefinition.cs" />
